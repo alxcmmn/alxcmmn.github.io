@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "fr.taxisg7.grandpublic.dev",
+    "sha256_cert_fingerprints":
+    ["B7:FD:F8:1C:6B:6F:BB:70:47:05:E9:5B:19:2B:DD:0E:65:0A:BC:1D:FB:51:78:06:EC:04:7B:39:4F:95:9E:D3"]
+  }
+}]
