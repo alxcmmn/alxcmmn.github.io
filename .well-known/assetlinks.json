@@ -6,4 +6,13 @@
     "sha256_cert_fingerprints":
     ["B7:FD:F8:1C:6B:6F:BB:70:47:05:E9:5B:19:2B:DD:0E:65:0A:BC:1D:FB:51:78:06:EC:04:7B:39:4F:95:9E:D3"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "fr.taxisg7.grandpublic",
+    "sha256_cert_fingerprints":
+    ["B8:57:29:BF:28:40:54:99:94:57:2F:F8:AA:4F:9B:50:0A:15:DB:4D:3D:BA:EF:33:D9:99:BC:F0:A9:72:E4:D0"]
+  }
 }]
